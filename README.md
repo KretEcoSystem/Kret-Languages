@@ -89,3 +89,15 @@ This repository uses **two separate licenses**, unless a file clearly states oth
 ## Project ecosystem
 
 Kret Languages is documentation associated with the **KretOS ecosystem**. Product interfaces, compatibility requirements, implementation status and release decisions should always be verified against the relevant version-specific source.
+
+## AI-Assisted Development
+
+The KretOS Ecosystem is developed with the assistance of artificial intelligence tools.
+
+AI is used to support code improvement, code optimization, documentation, testing, debugging, and technical analysis.
+
+Project requirements, architectural decisions, security policies, and final implementation approvals remain under human control.
+
+AI-assisted modifications are reviewed and validated before being accepted into the project.
+
+**Development approach:** Human-directed, AI-assisted software engineering.
